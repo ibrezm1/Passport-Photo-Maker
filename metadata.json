@@ -1,0 +1,7 @@
+{
+  "name": "Passport Photo Maker",
+  "description": "Create professional passport photos for adults and minors with manual guideline verification and 6x4 inch print sheet generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
